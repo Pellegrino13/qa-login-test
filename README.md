@@ -1,25 +1,10 @@
-# QA Login Test Project
+## Evidence
 
-This project demonstrates my skills in manual software testing.
+### Successful Login
+![Successful Login](evidence/successful-login.png)
 
-## 🔍 Scope
-Login functionality testing on:
-https://www.saucedemo.com
+### Invalid Password
+![Invalid Password](evidence/invalid-login-error.png)
 
-## 🧪 Test Types
-- Functional Testing
-- Negative Testing
-- Regression Testing
-
-## 📋 Test Cases
-Includes valid and invalid login scenarios.
-
-## 🐞 Bug Reports
-Documents issues related to validation and error messages.
-
-## 🛠 Tools Used
-- Manual Testing
-- GitHub
-
-## 👩‍💻 Author
-Barbara Pelegrino
+### Empty Fields Validation
+![Empty Fields](evidence/empty-fields-validation.png)
