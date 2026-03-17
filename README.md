@@ -46,3 +46,9 @@ Barbara Pelegrino## Evidence
 
 ### Empty Fields Validation
 ![Empty Fields](evidence/empty-fields-validation.png)
+
+
+## ✅ Conclusion
+The login functionality works correctly for valid credentials.
+However, improvements can be made in error message clarity and validation.
+
