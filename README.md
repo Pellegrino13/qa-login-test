@@ -1,22 +1,25 @@
 # QA Login Test Project
 
-This project demonstrates my QA skills in manual testing.
+This project demonstrates my skills in manual software testing.
 
 ## 🔍 Scope
-Testing the login functionality of:
+Login functionality testing on:
 https://www.saucedemo.com
 
-## ✅ Test Types
+## 🧪 Test Types
 - Functional Testing
 - Negative Testing
-- Basic Regression Testing
+- Regression Testing
+
+## 📋 Test Cases
+Includes valid and invalid login scenarios.
 
 ## 🐞 Bug Reports
-Documented issues related to validation and login behavior.
+Documents issues related to validation and error messages.
 
 ## 🛠 Tools Used
 - Manual Testing
-- Documentation
+- GitHub
 
-## 📌 Author
+## 👩‍💻 Author
 Barbara Pelegrino
